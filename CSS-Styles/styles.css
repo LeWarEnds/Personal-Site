@@ -39,7 +39,7 @@
 }
 .contact-message{
   font-size: 20px;
-  position: relative;
+/*   position: relative; */
   bottom: 25px;
   left: 6px;
   margin: 10px;
